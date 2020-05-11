@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+echo "Hello, World"
 version = "latest"
 docker_pull_repo="anchit2698"
 
